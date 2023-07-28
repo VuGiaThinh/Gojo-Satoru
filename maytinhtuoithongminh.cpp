@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+	cout<<"Thinh tap code nhe ae thong cam newbie=))))"<<endl;
+	
     int age;
     cout<<"Nhap so tuoi cua ban: ";
     cin>>age;
