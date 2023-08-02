@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	cout<<"Thinh tap code nhe ae thong cam newbie=))))"<<endl;
+    cout<<"Thinh tap code nhe ae thong cam newbie=))))"<<endl;
 	
     int age;
     cout<<"Nhap so tuoi cua ban: ";
@@ -11,3 +11,4 @@ int main()
     
     return 0;
 }
+//Cop pas len C++
